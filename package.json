@@ -1,0 +1,20 @@
+{
+  "name": "OAuth",
+  "version": "1.0.0",
+  "description": "OAuth Application",
+  "main": "server.js",
+  "author": "Jordan Ramey",
+  "dependencies": {
+    "express": "~4.6.1",
+    "body-parser": "~1.4.3",
+    "method-override": "~2.1.1",
+    "URIjs": "~1.13.2",
+    "request": "~2.37.0",
+    "express-session": "~1.6.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    
+  }
+}
